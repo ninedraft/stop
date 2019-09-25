@@ -43,3 +43,8 @@ func main() {
 ```
 
 Mostly it's important when you are writing to files and handling errors.
+
+## I don't want to import another leftpad dependency!
+
+Then just copy my code to your project :3 
+It's really just a little more than a usefull snippet, which I have been using for many years.
